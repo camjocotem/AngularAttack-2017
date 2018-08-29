@@ -1,0 +1,24 @@
+{
+  "name": "angularattack2017-debuggler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackbit/angularattack2017-debuggler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hackbit/angularattack2017-debuggler/issues"
+  },
+  "homepage": "https://github.com/Hackbit/angularattack2017-debuggler#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "guid4": "^1.0.0",
+    "jquery": "^3.2.1"
+  }
+}

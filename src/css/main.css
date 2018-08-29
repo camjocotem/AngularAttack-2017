@@ -1,0 +1,11 @@
+input.wiz-input{
+    opacity: 0.3;
+}
+
+input.wiz-input:focus{
+    opacity: 1;
+}
+
+input.wiz-input:hover{
+    opacity: 1;
+}
